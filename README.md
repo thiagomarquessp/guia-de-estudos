@@ -14,19 +14,36 @@ Primeiro minha inspiração veio através do Github da [Loiane Groner](https://g
 
 # Vamos ao que interessa
 
-Bem, vamos ao que interessa.
+Divirtam-se =)
 
 1. **[Bases literárias](https://github.com/thiagomarquessp/a-importancia-da-leitura-para-qas)**
 2. **[Básico de LEAN para aplicar em Testes](https://github.com/thiagomarquessp/lean-em-projetos-automacao)**
-3. **Automação para Todos - Web**
+3. **Tratamento de Choque nos dias atuais**
+    * [Porque fazemos o que fazemos da forma que fazemos?](https://github.com/thiagomarquessp/QA-e-seu-estado-transitorio)
+    * [Porque insistir em continuar sendo manual tester atualmente?](https://github.com/thiagomarquessp/manual-tester-voce-esta-demitido)
+4. **Automação para Todos - Web**
     * [Automação Web com Capybara - Parte 1](https://github.com/thiagomarquessp/capybaraforall)
     * [Automação Web com Capybara - Parte 2](https://github.com/thiagomarquessp/capybara_for_all_p2)
     * [Automação Web com Capybara - Parte 3](https://github.com/thiagomarquessp/capybara_for_all_p3)
     * [Automação Web com Capybara - Parte 4](https://github.com/thiagomarquessp/capybara_for_all_p4)
     * [Automação Web com Capybara - Parte 5](https://github.com/thiagomarquessp/capybara-for-all-p5) - ***Em construção***
-4. **Automação para Todos - Mobile com Calabash**
+5. **Automação para Todos - Mobile com Calabash**
     * [Automação Mobile com Calabash Android](https://github.com/thiagomarquessp/calabash_android_for_all)
-5. **Automação para Todos - APIs**
+6. **Automação para Todos - APIs**
     * [Automação na Camada de Serviço com HTTParty](https://github.com/thiagomarquessp/httpartyforall)
-6. **Momentos de auto ajuda em automação**
+7. **Momentos de auto ajuda em automação**
     * [Dia a Dia Capybara](https://github.com/thiagomarquessp/dia-a-dia-capybara)
+    * [Desistir do Gherkin as vezes é necessário](https://github.com/thiagomarquessp/nem-todo-dia-e-dia-de-cucumber)
+8. **Liderança**
+    * [Temos talentos, então temos que retê-los](https://github.com/thiagomarquessp/reter-telentos-e-preciso)
+    * [Criando equipes de auto desempenho através de 1 x 1 ](https://github.com/thiagomarquessp/1-on-1-melhorando-qas)
+9. **Banco de dados SQL e NoSql**
+    * [MongoDB para Testers - Básico](http://agiletesters.com.br/topic/53/n%C3%A3o-seja-um-mongo-com-mongodb) - ***Prometo que vou colocar aqui no meu git esse ano.***
+    * [SQL para Testers - Parte 1](http://agiletesters.com.br/topic/18/como-se-tornar-um-bom-tester-t%C3%A9cnico-sql-b%C3%A1sico)
+    * [SQL para Testers - Parte 2](http://agiletesters.com.br/topic/18/como-se-tornar-um-bom-tester-t%C3%A9cnico-sql-b%C3%A1sico) - ***Prometo que vou colocar aqui no meu git esse ano.***
+10. **Diversos (nome básico quando não sabemos dar nomes das coisas)**
+    * [Usando métricas a nosso favor](https://github.com/thiagomarquessp/aumento-salarial-leia-isso)
+
+# Agradecimentos
+
+A todos por desde o início me acompanharem e estarem presentes dando sugestões ou criticando de alguma forma.
