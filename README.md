@@ -41,7 +41,7 @@ Divirtam-se =)
     * [MongoDB para Testers - Básico](http://agiletesters.com.br/topic/53/n%C3%A3o-seja-um-mongo-com-mongodb) - ***Prometo que vou colocar aqui no meu git esse ano.***
     * [SQL para Testers - Parte 1](http://agiletesters.com.br/topic/18/como-se-tornar-um-bom-tester-t%C3%A9cnico-sql-b%C3%A1sico) - ***Prometo que vou colocar aqui no meu git esse ano.***
     * [SQL para Testers - Parte 2](http://agiletesters.com.br/topic/18/como-se-tornar-um-bom-tester-t%C3%A9cnico-sql-b%C3%A1sico) - ***Prometo que vou colocar aqui no meu git esse ano.***
-10. **Diversos (nome básico quando não sabemos dar nomes das coisas)**
+10. **Diversos (nome básico quando não sabemos dar nomes as coisas)**
     * [Usando métricas a nosso favor](https://github.com/thiagomarquessp/aumento-salarial-leia-isso)
 
 # Agradecimentos
