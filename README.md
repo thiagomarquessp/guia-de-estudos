@@ -18,5 +18,15 @@ Bem, vamos ao que interessa.
 
 1. **[Bases literárias](https://github.com/thiagomarquessp/a-importancia-da-leitura-para-qas)**
 2. **[Básico de LEAN para aplicar em Testes](https://github.com/thiagomarquessp/lean-em-projetos-automacao)**
-3. **Automação para Todos**
+3. **Automação para Todos - Web**
     * [Capybara For All - Parte 1](https://github.com/thiagomarquessp/capybaraforall)
+    * [Capybara For All - Parte 2](https://github.com/thiagomarquessp/capybara_for_all_p2)
+    * [Capybara For All - Parte 3](https://github.com/thiagomarquessp/capybara_for_all_p3)
+    * [Capybara For All - Parte 4](https://github.com/thiagomarquessp/capybara_for_all_p4)
+    * [Capybara For All - Parte 5](https://github.com/thiagomarquessp/capybara-for-all-p5) - ***Em construção***
+4. **Automação para Todos - Mobile com Calabash**
+    * [Calabash Android For All](https://github.com/thiagomarquessp/calabash_android_for_all)
+5. **Automação para Todos - APIs**
+    * [HTTParty For All](https://github.com/thiagomarquessp/httpartyforall)
+6. **Momentos de auto ajuda em automação**
+    * [Dia a Dia Capybara](https://github.com/thiagomarquessp/dia-a-dia-capybara)
