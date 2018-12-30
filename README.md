@@ -18,5 +18,5 @@ Bem, vamos ao que interessa.
 
 1. **[Bases literárias](https://github.com/thiagomarquessp/a-importancia-da-leitura-para-qas)**
 2. **[Básico de LEAN para aplicar em Testes](https://github.com/thiagomarquessp/lean-em-projetos-automacao)**
-3. **[Automação para Todos]**
+3. **Automação para Todos**
     * [Capybara For All - Parte 1](https://github.com/thiagomarquessp/capybaraforall)
