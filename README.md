@@ -39,7 +39,7 @@ Divirtam-se =)
     * [Criando equipes de auto desempenho através de 1 x 1 ](https://github.com/thiagomarquessp/1-on-1-melhorando-qas)
 9. **Banco de dados SQL e NoSql**
     * [MongoDB para Testers - Básico](http://agiletesters.com.br/topic/53/n%C3%A3o-seja-um-mongo-com-mongodb) - ***Prometo que vou colocar aqui no meu git esse ano.***
-    * [SQL para Testers - Parte 1](http://agiletesters.com.br/topic/18/como-se-tornar-um-bom-tester-t%C3%A9cnico-sql-b%C3%A1sico)
+    * [SQL para Testers - Parte 1](http://agiletesters.com.br/topic/18/como-se-tornar-um-bom-tester-t%C3%A9cnico-sql-b%C3%A1sico) - ***Prometo que vou colocar aqui no meu git esse ano.***
     * [SQL para Testers - Parte 2](http://agiletesters.com.br/topic/18/como-se-tornar-um-bom-tester-t%C3%A9cnico-sql-b%C3%A1sico) - ***Prometo que vou colocar aqui no meu git esse ano.***
 10. **Diversos (nome básico quando não sabemos dar nomes das coisas)**
     * [Usando métricas a nosso favor](https://github.com/thiagomarquessp/aumento-salarial-leia-isso)
