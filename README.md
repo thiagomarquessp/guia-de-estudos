@@ -43,7 +43,6 @@ Divirtam-se =)
     * [SQL para Testers - Parte 2](http://agiletesters.com.br/topic/18/como-se-tornar-um-bom-tester-t%C3%A9cnico-sql-b%C3%A1sico) - ***Prometo que vou colocar aqui no meu git esse ano.***
 10. **Diversos (nome básico quando não sabemos dar nomes as coisas)**
     * [Usando métricas a nosso favor](https://github.com/thiagomarquessp/aumento-salarial-leia-isso)
-    * [Referências literárias sobre tudo, principalmente para nós QAs](https://github.com/thiagomarquessp/a-importancia-da-leitura-para-qas)
 
 # Agradecimentos
 
