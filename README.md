@@ -20,7 +20,6 @@ Divirtam-se =)
 2. **[Básico de LEAN para aplicar em Testes](https://github.com/thiagomarquessp/lean-em-projetos-automacao)**
 3. **Tratamento de Choque nos dias atuais**
     * [Porque fazemos o que fazemos da forma que fazemos?](https://github.com/thiagomarquessp/QA-e-seu-estado-transitorio)
-    * [Porque insistir em continuar sendo manual tester atualmente?](https://github.com/thiagomarquessp/manual-tester-voce-esta-demitido)
 4. **Automação para Todos - Web**
     * [Automação Web com Capybara - Parte 1](https://github.com/thiagomarquessp/capybaraforall)
     * [Automação Web com Capybara - Parte 2](https://github.com/thiagomarquessp/capybara_for_all_p2)
