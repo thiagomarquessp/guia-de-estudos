@@ -16,7 +16,7 @@ Primeiro minha inspiração veio através do Github da [Loiane Groner](https://g
 
 Divirtam-se =)
 
-1. **[Bases literárias](https://github.com/thiagomarquessp/a-importancia-da-leitura-para-qas)**
+1. **[Bases literárias](https://github.com/thiagomarquessp/a-importancia-da-leitura)**
 2. **[Básico de LEAN para aplicar em Testes](https://github.com/thiagomarquessp/lean-em-projetos-automacao)**
 3. **Tratamento de Choque nos dias atuais**
     * [Porque fazemos o que fazemos da forma que fazemos?](https://github.com/thiagomarquessp/QA-e-seu-estado-transitorio)
@@ -34,13 +34,15 @@ Divirtam-se =)
     * [Dia a Dia Capybara](https://github.com/thiagomarquessp/dia-a-dia-capybara)
     * [Desistir do Gherkin as vezes é necessário](https://github.com/thiagomarquessp/nem-todo-dia-e-dia-de-cucumber)
 8. **Liderança**
-    * [Temos talentos, então temos que retê-los](https://github.com/thiagomarquessp/reter-telentos-e-preciso)
+    * [Temos talentos, então temos que retê-los](https://github.com/thiagomarquessp/reter-telentos)
     * [Criando equipes de auto desempenho através de 1 x 1 ](https://github.com/thiagomarquessp/1-on-1-melhorando-qas)
 9. **Banco de dados SQL e NoSql**
     * [MongoDB para Testers - Básico](http://agiletesters.com.br/topic/53/n%C3%A3o-seja-um-mongo-com-mongodb) - ***Prometo que vou colocar aqui no meu git esse ano.***
     * [SQL para Testers - Parte 1](http://agiletesters.com.br/topic/18/como-se-tornar-um-bom-tester-t%C3%A9cnico-sql-b%C3%A1sico) - ***Prometo que vou colocar aqui no meu git esse ano.***
     * [SQL para Testers - Parte 2](http://agiletesters.com.br/topic/18/como-se-tornar-um-bom-tester-t%C3%A9cnico-sql-b%C3%A1sico) - ***Prometo que vou colocar aqui no meu git esse ano.***
-10. **Diversos (nome básico quando não sabemos dar nomes as coisas)**
+10. **Cultura**
+    * [Como criar um mecanismo de aprendizado contínuo na empresa?](https://github.com/thiagomarquessp/cultura-do-aprendizado)
+11. **Coisas relacionadas a métodos ágeis**
     * [Usando métricas a nosso favor](https://github.com/thiagomarquessp/aumento-salarial-leia-isso)
 
 # Agradecimentos
